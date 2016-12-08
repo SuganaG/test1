@@ -1,2 +1,7 @@
 Hello world!
+<<<<<<< HEAD
 welcome!to the new world
+=======
+welcome!
+change in changed-branch
+>>>>>>> origin/changed-name
